@@ -6,6 +6,7 @@
 
 ## Usage
 
+
 ```Commad line tool about Gautham Santhosh
 
 Usage:
@@ -26,4 +27,5 @@ Use "gautham [command] --help" for more information about a command.
 subcommand is required
 ```
 
-![Screenshot][screenshot.png]
+<img src="screenshot.png" width="700">
+
